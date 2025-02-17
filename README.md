@@ -1,1 +1,1 @@
-"# hafta3" 
+"# hafta3te işlenilenler ve bazı örnekler" 
