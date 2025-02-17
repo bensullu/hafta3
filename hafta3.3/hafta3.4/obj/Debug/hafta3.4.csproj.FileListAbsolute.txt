@@ -1,0 +1,7 @@
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\bin\Debug\hafta3.4.exe.config
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\bin\Debug\hafta3.4.exe
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\bin\Debug\hafta3.4.pdb
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\obj\Debug\hafta3.4.csproj.AssemblyReference.cache
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\obj\Debug\hafta3.4.csproj.CoreCompileInputs.cache
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\obj\Debug\hafta3.4.exe
+C:\Users\efe19\source\repos\hafta3.4\hafta3.4\obj\Debug\hafta3.4.pdb
